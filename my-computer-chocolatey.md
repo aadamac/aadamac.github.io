@@ -10,3 +10,6 @@ Hello! I’m Aada MacGregor. I have the following programs installed on my compu
 ## Chocolatey Installation Script
 ```powershell
 choco install googlechrome vscode git zoom -y
+
+![Hostname Screenshot](hostame.pgn)
+
