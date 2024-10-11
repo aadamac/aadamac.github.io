@@ -11,5 +11,5 @@ Hello! I’m Aada MacGregor. I have the following programs installed on my compu
 ```powershell
 choco install googlechrome vscode git zoom -y
 
-![Hostname Screenshot](hostame.pgn)
+![Hostname Screenshot](Screenshot 2024-10-11 at 11.44.46.png)
 
