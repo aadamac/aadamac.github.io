@@ -18,6 +18,35 @@ Hello! I’m Aada MacGregor. I have the following programs installed on my compu
 
 choco install googlechrome vscode git zoom -y
 
+## Step 2: Programs/Apps Installation
+
+After successfully installing the Chocolatey package manager, you can use it to install multiple apps simultaneously. This saves you significant time compared to installing each app individually. 
+
+***The list of apps that you are going to install is as below:*** <br>
+
+> powershell-core, git, vscode, putty,firefox, greenshot,google-drive-file-stream, googlechrome notepadplusplus, winscp, 7zip,  paint.net, windirstat, zoom, sudo, vmrc, vmware-horizon-client, github-desktop, docker-desktop & obs-studio powertoys
+
+***To install the above mentioned programs run the following script***
+
+```powershell
+choco install powershell-core git vscode putty greenshot notepadplusplus winscp 7zip paint.net windirstat zoom sudo vmrc vmware-horizon-client github-desktop obs-studio docker-desktop google-drive-file-stream googlechrome curl powertoys -y
+
+```
+## Step 3: Installing some useful VScode addons 
+
+* Restart your Powershell session 
+* Run the following commands 
+
+```powershell linenums="1"
+code --install-extension ms-vscode.powershell
+code --install-extension vsls-contrib.gistfs
+code --install-extension ms-vscode-remote.remote-containers
+code --install-extension ms-azuretools.vscode-docker
+code --install-extension ms-vscode-remote.vscode-remote-extensionpack
+code --install-extension GitHub.copilot
+code --install-extension GitHub.vscode-pull-request-github
+
+```
 
 
 
