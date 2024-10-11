@@ -57,6 +57,9 @@ code --install-extension GitHub.vscode-pull-request-github
 ```
 ***3. Tehtävä ***
 
+![image](https://github.com/user-attachments/assets/b310d5cd-704a-4078-9e36-a2befa3ee9bc)
+
+
 
 
 
